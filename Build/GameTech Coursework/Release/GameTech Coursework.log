@@ -1,0 +1,5 @@
+﻿  main.cpp
+  TestScene.cpp
+TestScene.cpp(41): warning C4129: 'p': unrecognized character escape sequence
+LINK : fatal error C1047: The object or library file 'D:\FinalGameTechCoursework\GameTechCoursework\Build\ExternalLibs\SOIL\lib\SOIL.lib' was created with an older compiler than other objects; rebuild old objects and libraries
+LINK : fatal error LNK1257: code generation failed

@@ -1,0 +1,13 @@
+﻿  SphereCollisionShape.cpp
+  SceneManager.cpp
+d:\gametechcoursework\build\ncltech\scenemanager.h(53): warning C4267: 'return': conversion from 'size_t' to 'uint', possible loss of data
+  PhysicsNode.cpp
+  PhysicsEngine.cpp
+  Manifold.cpp
+  CuboidCollisionShape.cpp
+d:\gametechcoursework\build\ncltech\cuboidcollisionshape.cpp(72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  CommonUtils.cpp
+  CollisionDetectionSAT.cpp
+d:\gametechcoursework\build\ncltech\collisiondetectionsat.cpp(224): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ncltech.vcxproj -> D:\GameTechCoursework\Build\x64\Debug\ncltech.lib

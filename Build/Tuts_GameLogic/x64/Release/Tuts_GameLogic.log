@@ -1,0 +1,15 @@
+﻿  HungryDinosaur.cpp
+  main.cpp
+D:\FinalGameTechCoursework\GameTechCoursework\Build\ncltech\SceneManager.h(53): warning C4267: 'return': conversion from 'size_t' to 'uint', possible loss of data
+d:\finalgametechcoursework\gametechcoursework\build\tuts_gamelogic\Scene_PathFollowing.h(49): warning C4267: 'initializing': conversion from 'size_t' to 'uint', possible loss of data
+d:\finalgametechcoursework\gametechcoursework\build\tuts_gamelogic\Scene_PathFollowing.h(49): warning C4267: 'initializing': conversion from 'size_t' to 'const uint', possible loss of data
+d:\finalgametechcoursework\gametechcoursework\build\tuts_gamelogic\Scene_PathFollowing.h(240): warning C4267: 'initializing': conversion from 'size_t' to 'uint', possible loss of data
+d:\finalgametechcoursework\gametechcoursework\build\tuts_gamelogic\Scene_PathFollowing.h(240): warning C4267: 'initializing': conversion from 'size_t' to 'const uint', possible loss of data
+d:\finalgametechcoursework\gametechcoursework\build\tuts_gamelogic\Scene_PathFollowing.h(339): warning C4267: 'initializing': conversion from 'size_t' to 'uint', possible loss of data
+d:\finalgametechcoursework\gametechcoursework\build\tuts_gamelogic\Scene_PathFollowing.h(339): warning C4267: 'initializing': conversion from 'size_t' to 'const uint', possible loss of data
+  MazeGenerator.cpp
+MazeGenerator.cpp(220): warning C4244: 'argument': conversion from '__int64' to 'uint', possible loss of data
+MazeGenerator.cpp(225): warning C4244: 'argument': conversion from '__int64' to 'uint', possible loss of data
+  MazeRenderer.cpp
+LINK : fatal error C1047: The object or library file 'D:\FinalGameTechCoursework\GameTechCoursework\Build\ExternalLibs\SOIL\lib\x64\SOIL.lib' was created with an older compiler than other objects; rebuild old objects and libraries
+LINK : fatal error LNK1257: code generation failed

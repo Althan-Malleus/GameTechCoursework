@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\FinalGameTechCoursework\GameTechCoursework\Build\ncltech\SceneManager.h(53): warning C4267: 'return': conversion from 'size_t' to 'uint', possible loss of data
+LINK : fatal error C1047: The object or library file 'D:\FinalGameTechCoursework\GameTechCoursework\Build\ExternalLibs\SOIL\lib\x64\SOIL.lib' was created with an older compiler than other objects; rebuild old objects and libraries
+LINK : fatal error LNK1257: code generation failed

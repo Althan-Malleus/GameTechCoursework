@@ -1,0 +1,6 @@
+﻿  HungryDinosaur.cpp
+  main.cpp
+  MazeGenerator.cpp
+  MazeRenderer.cpp
+LINK : fatal error C1047: The object or library file 'D:\FinalGameTechCoursework\GameTechCoursework\Build\ExternalLibs\SOIL\lib\SOIL.lib' was created with an older compiler than other objects; rebuild old objects and libraries
+LINK : fatal error LNK1257: code generation failed
